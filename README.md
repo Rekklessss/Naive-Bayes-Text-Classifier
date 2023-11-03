@@ -15,4 +15,4 @@ This repository features an implementation of a text classification model using 
 
 Feel free to delve into the code, model, and visualizations to better comprehend how sentiment analysis can be achieved through machine learning.
 
-Link to the dataset used in Ass2 - https://csciitd-my.sharepoint.com/:f:/g/personal/cs5200475_iitd_ac_in/Es0tLV2cjX9Dsytjm0mPsZgBczSnTmL2Q4CzFw1YF_rr5A?e=sOuViE
+
